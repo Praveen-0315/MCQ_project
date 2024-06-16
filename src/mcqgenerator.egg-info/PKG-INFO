@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: pravee kumar
+Author-email: p.kumar31036@gmail.com
+Requires-Dist: huggingface_hub
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: bitsandbytes
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
